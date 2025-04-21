@@ -1,5 +1,7 @@
 # Split leverless controller
 
+![image of the controller](https://github.com/user-attachments/assets/de8bbbc6-decb-4254-b3ec-38508ae9a0e2)
+
 ## Description
 
 This is a DIY version of a leverless controller that is split in two halves for more comfort. The case is made to be 3D-printable and the electronics consist of a Raspberry Pi Pico running GP2040-CE, Kailh Choc V2 low profile switches, a couple 6mm buttons,  a small screen, and an RJ45/Ethernet cable to connect the two halves.
